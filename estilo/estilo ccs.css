@@ -1,0 +1,49 @@
+body {background: #EFE5D5 url(../imagen/marmol.jpg) center bottom/cover no-repeat local;}
+h2{
+    color: black;
+    font-size: 25px;
+    font-family: 'League Spartan', sans-serif;
+    margin-top: 10px;    
+    margin-right: 20px;  
+    margin-bottom: 30px;
+    margin-left: 0px; 
+}
+#tema{
+color:brown;
+font-size: 40px;
+}
+.beige{
+    color:black;
+    font-size: 30px;
+}
+ul{
+    margin: 25;
+    padding: 20;
+    border: 15px ridge black;
+    text-align: left;
+}
+span{
+    font-size: 32px;
+    background-color: blueviolet;
+}
+elemento {
+    margin-top: 10px;    
+    margin-right: 20px;  
+    margin-bottom: 30px;
+    margin-left: 40px;  
+  }
+img{
+    width: 300px;
+    height: 200px;
+}
+#banner{
+    width: 1920px;
+    height: 200px;
+}  
+
+.padre{
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    height: 90px;
+}
